@@ -36,6 +36,8 @@ no-answer is an implied non-ground term.
 
 TODO:
     refactor!
+    in "choose a course of action", allow the user to go ahead and type the new
+        answer.
     write to/read from disk
     order suggestions with more-specific suggestions first.
     optimize sequence of asking questions
